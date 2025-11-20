@@ -29,5 +29,4 @@ A dynamic Job Portal web application built using Java, JSP, MySQL, and modern fr
 3. Build and deploy the project on a Java Servlet container (e.g., Apache Tomcat)
 4. Access the application via `http://localhost:8081/job-portal`
 
-## Contributors
-- [Jainam Thakkar](https://github.com/jainamthakkar)
+
